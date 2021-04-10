@@ -1,0 +1,22 @@
+{
+  "name": "mytestpackage",
+  "version": "1.0.0",
+  "description": "This is my first test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagarajanh/katacoda-scenarios.git"
+  },
+  "keywords": [
+    "thiagarajanh"
+  ],
+  "author": "H, Thiagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagarajanh/katacoda-scenarios/issues"
+  },
+  "homepage": "https://github.com/thiagarajanh/katacoda-scenarios#readme"
+}
